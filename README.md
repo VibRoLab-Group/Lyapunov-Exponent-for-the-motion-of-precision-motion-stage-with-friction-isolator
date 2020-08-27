@@ -1,5 +1,5 @@
 # Lyapunov-Exponent-for-the-motion-of-precision-motion-stage-with-friction-isolator
-This package calculate L.E of the  motion of precision motion stage with friction isolator using MATLAB.
+This package calculates L.E for the  motion of precision motion stage with friction isolator using MATLAB.
 
 The utilities from this package is used in our study:
 
